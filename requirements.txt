@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-multipart
+python-dotenv
+pydantic
+supabase
+opencv-python
+easyocr
+pillow
+numpy
+pytest
